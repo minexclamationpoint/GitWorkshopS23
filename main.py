@@ -33,5 +33,15 @@ while option != 0:
         myOrder.print_order()
     if option == 1:
         myOrder.add_lemonade()
-    if option == 2:
+    if option == 3:
         myOrder.add_coffee()
+    if option == 4:
+        myOrder.add_fries()
+    if option == 5:
+        myOrder.add_salad()
+    if option == 6:
+        myOrder.add_wrap()
+    if option == 6.5: 
+        myOrder.add_steel()
+        
+        
